@@ -1,5 +1,5 @@
 # mssql-ci
-Copy procedures and view from MSSQL to files
+Utility for copying procedures and view from MSSQL to files
 
 **Использование:**
 
